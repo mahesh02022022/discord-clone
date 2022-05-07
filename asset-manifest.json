@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/discord-clone/static/css/main.7d69c3e1.chunk.css",
+    "main.js": "/discord-clone/static/js/main.0bd84604.chunk.js",
+    "main.js.map": "/discord-clone/static/js/main.0bd84604.chunk.js.map",
+    "runtime-main.js": "/discord-clone/static/js/runtime-main.0b2b6ed2.js",
+    "runtime-main.js.map": "/discord-clone/static/js/runtime-main.0b2b6ed2.js.map",
+    "static/js/2.b02477d7.chunk.js": "/discord-clone/static/js/2.b02477d7.chunk.js",
+    "static/js/2.b02477d7.chunk.js.map": "/discord-clone/static/js/2.b02477d7.chunk.js.map",
+    "index.html": "/discord-clone/index.html",
+    "precache-manifest.27950da7328833a51141a0e1cb0c0bac.js": "/discord-clone/precache-manifest.27950da7328833a51141a0e1cb0c0bac.js",
+    "service-worker.js": "/discord-clone/service-worker.js",
+    "static/css/main.7d69c3e1.chunk.css.map": "/discord-clone/static/css/main.7d69c3e1.chunk.css.map",
+    "static/js/2.b02477d7.chunk.js.LICENSE.txt": "/discord-clone/static/js/2.b02477d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b2b6ed2.js",
+    "static/js/2.b02477d7.chunk.js",
+    "static/css/main.7d69c3e1.chunk.css",
+    "static/js/main.0bd84604.chunk.js"
+  ]
+}
